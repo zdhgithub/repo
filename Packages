@@ -478,16 +478,16 @@ Author: dvntm
 Name: Infuse Plus(rootless)
 
 Package: com.dao.lynxtwo
-Version: 2.4
+Version: 2.4.2
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Conflicts: com.mtac.lynxtwo
 Filename: ./debs/Lynx2rootless.com.dao.lynxtwo.deb
-Size: 450176
-MD5sum: 8194ddfae5eecfb389fa9daed7def6e5
-SHA1: 28fb7324ffd699901195d21fa996407659556421
-SHA256: 51c299e2075b28be1ca051991408fb34e780e5becc8db63aad791e0d629f8b8e
+Size: 476184
+MD5sum: 004197ec8183ca9da87032a496e56931
+SHA1: d540abf84c8a3fe931be12b50ddcd50e6e947c1a
+SHA256: 595c4bec06daa5884e756e3e761779094a54191a936d482c5c36e3e56eb6f50c
 Section: 嗨-工具
 Description: 适用于iOS 14+的终极军刀类多功能插件，汉化包在源内。
 Author: MTAC
@@ -668,18 +668,18 @@ Author: 妖刀
 Name: FloatingDockXVI 简体中文包(rootless)
 
 Package: com.hk.lynx2.cn.rl
-Version: 2.4-1
+Version: 2.4.1
 Architecture: iphoneos-arm64
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
 Filename: ./debs/Lynx2简体中文包rootless.com.hk.lynx2.cn.rl.deb
-Size: 21152
-MD5sum: 00e7968194a7916a685da5f97004174a
-SHA1: f6122e39f45130d1297372dc9b6ebeb93cc7a1d9
-SHA256: 60ce96b0cf50cc51cef512b89c67e9f0bf286be1d7d2e7bb1de12cbe8c919435
+Size: 22128
+MD5sum: 442744b5031c3f2ae885112e9d1fd77d
+SHA1: f607dd05493c8ad9546123d43aa47496aa9b1590
+SHA256: dfbda21eb04b6a78eaaa84b9e7d406519cb8ba05be868728f400f7ba4676d271
 Section: 嗨-汉化
 Description: Lynx2 简体中文包(rootless)。
-Author: M哥
+Author: M哥 & 妖刀
 Name: Lynx2 简体中文包(rootless)
 
 Package: com.hk.settingsrevamp.cn.rl
