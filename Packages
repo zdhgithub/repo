@@ -1600,11 +1600,30 @@ Depends: mobilesubstrate, firmware (>= 15.0)
 Conflicts: netskao.wechatpurification-rootless
 Replaces: netskao.wechatpurification-rootless
 Provides: netskao.wechatpurification-rootless
-Filename: ./debs/微信净化-Rootless.netskao.wcpureextension-rootless.deb
+Filename: ./debs/微信净化-Rootless.netskao.wcpureextension-rootless4.0-7.deb
 Size: 7056960
 MD5sum: a76c4d7eacd9db3a9a5e632eaac29cff
 SHA1: e5bb1b47c738a938abc0c1a1ac3c5be00a92639b
 SHA256: 49f688a69c0cfa70590e3559e6ce8970b2d310566ed20fc77c34cb2a00013116
+Section: Netskao-Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化-Rootless
+
+Package: netskao.wcpureextension-rootless
+Version: 4.0-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 21492
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.wechatpurification-rootless
+Replaces: netskao.wechatpurification-rootless
+Provides: netskao.wechatpurification-rootless
+Filename: ./debs/微信净化-Rootless.netskao.wcpureextension-rootless4.0-8.deb
+Size: 7061780
+MD5sum: 790e8f967977dadf563d1bbff6aaf282
+SHA1: b56f810db975307a948d286c205824850eae32e8
+SHA256: 97d94076b102dc3a30e20aab3a085d04dd6b9e699d558135c6ea35692f834a54
 Section: Netskao-Tweaks
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
